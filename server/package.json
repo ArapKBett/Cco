@@ -1,0 +1,14 @@
+{
+  "name": "case-opening-server",
+  "version": "1.0.0",
+  "description": "Node.js server for Crypto Casino Case Opening",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Arap",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
