@@ -1,0 +1,96 @@
+{
+  "case_name": "Tech_gadgets Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 3389,
+      "probability": 12.168141592920355
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 3378,
+      "probability": 5.162241887905605
+    },
+    {
+      "item_name": "Google Pixel 8 Pro",
+      "price": 3342,
+      "probability": 7.374631268436578
+    },
+    {
+      "item_name": "Apple iPad Pro",
+      "price": 3293,
+      "probability": 4.056047197640118
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2831,
+      "probability": 13.274336283185843
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2718,
+      "probability": 5.530973451327434
+    },
+    {
+      "item_name": "JBL Boombox 3",
+      "price": 2656,
+      "probability": 1.4749262536873156
+    },
+    {
+      "item_name": "Samsung Galaxy Z Fold 5",
+      "price": 2411,
+      "probability": 0.0368731563421829
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2047,
+      "probability": 11.430678466076696
+    },
+    {
+      "item_name": "Sony PlayStation 5 Pro",
+      "price": 1683,
+      "probability": 0.0368731563421829
+    },
+    {
+      "item_name": "Anker PowerCore 20K",
+      "price": 1364,
+      "probability": 0.7374631268436578
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 889,
+      "probability": 5.899705014749262
+    },
+    {
+      "item_name": "Microsoft Surface Pro 9",
+      "price": 782,
+      "probability": 5.899705014749262
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 615,
+      "probability": 4.793510324483776
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 547,
+      "probability": 9.218289085545724
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 348,
+      "probability": 0.7374631268436578
+    },
+    {
+      "item_name": "Apple Vision Pro",
+      "price": 318,
+      "probability": 1.1061946902654867
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 143,
+      "probability": 11.061946902654867
+    }
+  ]
+}

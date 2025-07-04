@@ -1,0 +1,91 @@
+{
+  "case_name": "Vr_headsets Crate",
+  "case_price": 666,
+  "items": [
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 966,
+      "probability": 5.939902166317261
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 932,
+      "probability": 12.22921034241789
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 902,
+      "probability": 12.928022361984626
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 898,
+      "probability": 1.397624039133473
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 887,
+      "probability": 5.939902166317261
+    },
+    {
+      "item_name": "Valve Index",
+      "price": 791,
+      "probability": 1.7470300489168415
+    },
+    {
+      "item_name": "Meta Quest 3 Pro",
+      "price": 710,
+      "probability": 1.0482180293501049
+    },
+    {
+      "item_name": "Pimax 8KX",
+      "price": 536,
+      "probability": 5.590496156533892
+    },
+    {
+      "item_name": "HTC Vive Pro 2",
+      "price": 529,
+      "probability": 0.03494060097833683
+    },
+    {
+      "item_name": "Meta Quest 2",
+      "price": 475,
+      "probability": 0.3843466107617051
+    },
+    {
+      "item_name": "PlayStation VR2",
+      "price": 462,
+      "probability": 1.7470300489168415
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 417,
+      "probability": 10.13277428371768
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 402,
+      "probability": 12.22921034241789
+    },
+    {
+      "item_name": "Oculus Rift S",
+      "price": 375,
+      "probability": 4.8916841369671555
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 221,
+      "probability": 6.289308176100629
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 181,
+      "probability": 12.22921034241789
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 105,
+      "probability": 5.241090146750524
+    }
+  ]
+}

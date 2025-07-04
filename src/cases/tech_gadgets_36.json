@@ -1,0 +1,86 @@
+{
+  "case_name": "Tech_gadgets Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 3285,
+      "probability": 15.776699029126215
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 3069,
+      "probability": 4.854368932038835
+    },
+    {
+      "item_name": "Samsung Galaxy Z Fold 5",
+      "price": 3056,
+      "probability": 6.4724919093851145
+    },
+    {
+      "item_name": "Apple iPad Pro",
+      "price": 2990,
+      "probability": 5.6634304207119746
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2690,
+      "probability": 15.372168284789645
+    },
+    {
+      "item_name": "Microsoft Surface Pro 9",
+      "price": 2583,
+      "probability": 1.6181229773462786
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2142,
+      "probability": 0.44498381877022664
+    },
+    {
+      "item_name": "JBL Boombox 3",
+      "price": 2135,
+      "probability": 0.04045307443365696
+    },
+    {
+      "item_name": "Anker PowerCore 20K",
+      "price": 1661,
+      "probability": 4.449838187702265
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 1571,
+      "probability": 6.877022653721683
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 1337,
+      "probability": 14.158576051779937
+    },
+    {
+      "item_name": "Apple Vision Pro",
+      "price": 1046,
+      "probability": 2.022653721682848
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 975,
+      "probability": 12.540453074433659
+    },
+    {
+      "item_name": "Sony PlayStation 5 Pro",
+      "price": 829,
+      "probability": 4.045307443365696
+    },
+    {
+      "item_name": "Google Pixel 8 Pro",
+      "price": 269,
+      "probability": 1.2135922330097086
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 130,
+      "probability": 4.449838187702265
+    }
+  ]
+}

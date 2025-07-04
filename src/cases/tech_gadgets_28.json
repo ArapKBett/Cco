@@ -1,0 +1,86 @@
+{
+  "case_name": "Tech_gadgets Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 3273,
+      "probability": 7.598784194528875
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2936,
+      "probability": 5.319148936170213
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2879,
+      "probability": 14.817629179331307
+    },
+    {
+      "item_name": "Google Pixel 8 Pro",
+      "price": 2831,
+      "probability": 7.598784194528875
+    },
+    {
+      "item_name": "Microsoft Surface Pro 9",
+      "price": 2731,
+      "probability": 0.03799392097264438
+    },
+    {
+      "item_name": "Anker PowerCore 20K",
+      "price": 2648,
+      "probability": 5.319148936170213
+    },
+    {
+      "item_name": "JBL Boombox 3",
+      "price": 2576,
+      "probability": 4.179331306990881
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2537,
+      "probability": 11.398176291793312
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2451,
+      "probability": 12.537993920972646
+    },
+    {
+      "item_name": "Sony PlayStation 5 Pro",
+      "price": 2359,
+      "probability": 0.4179331306990882
+    },
+    {
+      "item_name": "Apple Vision Pro",
+      "price": 2294,
+      "probability": 1.5197568389057752
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 1970,
+      "probability": 1.1398176291793314
+    },
+    {
+      "item_name": "Apple iPad Pro",
+      "price": 1842,
+      "probability": 7.218844984802432
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 1314,
+      "probability": 11.778115501519757
+    },
+    {
+      "item_name": "Samsung Galaxy Z Fold 5",
+      "price": 874,
+      "probability": 1.8996960486322187
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 746,
+      "probability": 7.218844984802432
+    }
+  ]
+}

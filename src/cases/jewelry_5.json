@@ -1,0 +1,96 @@
+{
+  "case_name": "Jewelry Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Bulgari Serpenti Watch",
+      "price": 45695,
+      "probability": 0.7267441860465116
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 45397,
+      "probability": 3.6337209302325584
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 45094,
+      "probability": 5.087209302325581
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 37466,
+      "probability": 3.6337209302325584
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 36895,
+      "probability": 12.718023255813954
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 36825,
+      "probability": 6.540697674418605
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 36013,
+      "probability": 5.087209302325581
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 35232,
+      "probability": 13.444767441860467
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 30128,
+      "probability": 13.08139534883721
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 27598,
+      "probability": 0.036337209302325583
+    },
+    {
+      "item_name": "Cartier Love Bracelet",
+      "price": 25144,
+      "probability": 1.0901162790697674
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 13898,
+      "probability": 12.354651162790699
+    },
+    {
+      "item_name": "Van Cleef & Arpels Ring",
+      "price": 13285,
+      "probability": 0.036337209302325583
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 8612,
+      "probability": 4.3604651162790695
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 8542,
+      "probability": 5.087209302325581
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 7157,
+      "probability": 10.537790697674419
+    },
+    {
+      "item_name": "Tiffany & Co. Necklace",
+      "price": 5869,
+      "probability": 1.8168604651162792
+    },
+    {
+      "item_name": "David Yurman Cable Bracelet",
+      "price": 4420,
+      "probability": 0.7267441860465116
+    }
+  ]
+}

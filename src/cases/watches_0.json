@@ -1,0 +1,66 @@
+{
+  "case_name": "Watches Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Omega Seamaster",
+      "price": 34626,
+      "probability": 2.1953896816684964
+    },
+    {
+      "item_name": "Casio G-Shock",
+      "price": 31027,
+      "probability": 20.30735455543359
+    },
+    {
+      "item_name": "Rolex Submariner",
+      "price": 22269,
+      "probability": 8.232711306256862
+    },
+    {
+      "item_name": "Citizen Eco-Drive Promaster",
+      "price": 20988,
+      "probability": 5.488474204171241
+    },
+    {
+      "item_name": "Fossil Gen 6",
+      "price": 19833,
+      "probability": 17.56311745334797
+    },
+    {
+      "item_name": "Hamilton Khaki Field",
+      "price": 18791,
+      "probability": 8.781558726673985
+    },
+    {
+      "item_name": "Casio G-Shock",
+      "price": 16229,
+      "probability": 10.976948408342482
+    },
+    {
+      "item_name": "Tag Heuer Carrera",
+      "price": 12738,
+      "probability": 0.054884742041712405
+    },
+    {
+      "item_name": "Patek Philippe Nautilus",
+      "price": 7364,
+      "probability": 2.7442371020856204
+    },
+    {
+      "item_name": "Seiko 5 Sports",
+      "price": 6891,
+      "probability": 0.6037321624588365
+    },
+    {
+      "item_name": "Tissot PRX Powermatic",
+      "price": 1768,
+      "probability": 8.781558726673985
+    },
+    {
+      "item_name": "Timex Weekender",
+      "price": 1728,
+      "probability": 14.270032930845225
+    }
+  ]
+}

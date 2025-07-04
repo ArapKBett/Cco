@@ -1,0 +1,86 @@
+{
+  "case_name": "Designer_bags Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Michael Kors Jet Set",
+      "price": 277077,
+      "probability": 7.223113964686998
+    },
+    {
+      "item_name": "Fendi Baguette",
+      "price": 269124,
+      "probability": 2.0064205457463884
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 265694,
+      "probability": 6.821829855537722
+    },
+    {
+      "item_name": "Kate Spade Outlet",
+      "price": 246935,
+      "probability": 6.420545746388444
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 241127,
+      "probability": 10.032102728731942
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 236615,
+      "probability": 12.038523274478331
+    },
+    {
+      "item_name": "Hermès Himalaya Birkin",
+      "price": 193987,
+      "probability": 4.414125200642055
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 188738,
+      "probability": 13.643659711075443
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 115842,
+      "probability": 16.051364365971107
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 111006,
+      "probability": 5.617977528089888
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 109285,
+      "probability": 7.624398073836276
+    },
+    {
+      "item_name": "Prada Re-Edition 2005",
+      "price": 62617,
+      "probability": 0.44141252006420545
+    },
+    {
+      "item_name": "Louis Vuitton Speedy",
+      "price": 25819,
+      "probability": 1.2038523274478332
+    },
+    {
+      "item_name": "Gucci Dionysus",
+      "price": 9405,
+      "probability": 0.040128410914927776
+    },
+    {
+      "item_name": "Chanel Classic Flap",
+      "price": 8557,
+      "probability": 0.8025682182985555
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 6297,
+      "probability": 5.617977528089888
+    }
+  ]
+}

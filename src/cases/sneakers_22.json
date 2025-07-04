@@ -1,0 +1,101 @@
+{
+  "case_name": "Sneakers Crate",
+  "case_price": 770,
+  "items": [
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 888,
+      "probability": 3.8684719535783367
+    },
+    {
+      "item_name": "Jordan 1 Retro",
+      "price": 849,
+      "probability": 0.9671179883945842
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 848,
+      "probability": 10.315925209542232
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 831,
+      "probability": 12.2501611863314
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 827,
+      "probability": 5.157962604771116
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 820,
+      "probability": 0.6447453255963895
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 776,
+      "probability": 11.283043197936815
+    },
+    {
+      "item_name": "Adidas Yeezy Boost 350",
+      "price": 750,
+      "probability": 1.6118633139909737
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 735,
+      "probability": 12.89490651192779
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 724,
+      "probability": 5.157962604771116
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 529,
+      "probability": 6.1250805931657
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 505,
+      "probability": 9.348807221147647
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 463,
+      "probability": 4.835589941972921
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 459,
+      "probability": 5.480335267569311
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 328,
+      "probability": 1.289490651192779
+    },
+    {
+      "item_name": "New Balance 990",
+      "price": 162,
+      "probability": 0.3546099290780142
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 137,
+      "probability": 3.8684719535783367
+    },
+    {
+      "item_name": "Puma Suede Classic",
+      "price": 129,
+      "probability": 4.190844616376531
+    },
+    {
+      "item_name": "Nike Air Force 1",
+      "price": 111,
+      "probability": 0.3546099290780142
+    }
+  ]
+}

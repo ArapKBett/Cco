@@ -1,0 +1,91 @@
+{
+  "case_name": "Supercars Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 316567,
+      "probability": 4.163512490537472
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 304654,
+      "probability": 12.86903860711582
+    },
+    {
+      "item_name": "Porsche 911 Turbo S",
+      "price": 295412,
+      "probability": 0.757002271006813
+    },
+    {
+      "item_name": "Mercedes-AMG GT",
+      "price": 277219,
+      "probability": 7.1915215745647245
+    },
+    {
+      "item_name": "Audi R8 V10 Plus",
+      "price": 255134,
+      "probability": 1.1355034065102196
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 253132,
+      "probability": 14.761544284632855
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 247888,
+      "probability": 12.86903860711582
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 242099,
+      "probability": 4.5420136260408785
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 241712,
+      "probability": 4.163512490537472
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 222335,
+      "probability": 5.299015897047692
+    },
+    {
+      "item_name": "McLaren 570S",
+      "price": 207631,
+      "probability": 6.43451930355791
+    },
+    {
+      "item_name": "Lamborghini Huracan",
+      "price": 204661,
+      "probability": 0.03785011355034066
+    },
+    {
+      "item_name": "Chevrolet Corvette Z06",
+      "price": 139481,
+      "probability": 1.8925056775170326
+    },
+    {
+      "item_name": "Ferrari 488 Pista",
+      "price": 131841,
+      "probability": 0.03785011355034066
+    },
+    {
+      "item_name": "BMW M8 Competition",
+      "price": 56115,
+      "probability": 1.1355034065102196
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 16507,
+      "probability": 10.97653292959879
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 9606,
+      "probability": 11.733535200605601
+    }
+  ]
+}

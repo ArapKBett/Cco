@@ -1,0 +1,91 @@
+{
+  "case_name": "Designer_bags Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Coach Crossbody",
+      "price": 263883,
+      "probability": 5.339435545385203
+    },
+    {
+      "item_name": "Louis Vuitton Speedy",
+      "price": 254245,
+      "probability": 1.5255530129672008
+    },
+    {
+      "item_name": "Chanel Classic Flap",
+      "price": 250505,
+      "probability": 5.720823798627003
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 241360,
+      "probability": 10.678871090770405
+    },
+    {
+      "item_name": "Prada Re-Edition 2005",
+      "price": 240133,
+      "probability": 0.03813882532418002
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 221382,
+      "probability": 4.958047292143402
+    },
+    {
+      "item_name": "Michael Kors Jet Set",
+      "price": 213209,
+      "probability": 1.1441647597254005
+    },
+    {
+      "item_name": "Fendi Baguette",
+      "price": 205230,
+      "probability": 0.7627765064836004
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 167983,
+      "probability": 12.967200610221205
+    },
+    {
+      "item_name": "Gucci Dionysus",
+      "price": 146661,
+      "probability": 4.576659038901602
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 107984,
+      "probability": 9.534706331045003
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 91647,
+      "probability": 15.255530129672007
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 87152,
+      "probability": 11.823035850495806
+    },
+    {
+      "item_name": "Kate Spade Outlet",
+      "price": 69648,
+      "probability": 1.9069412662090008
+    },
+    {
+      "item_name": "Hermès Himalaya Birkin",
+      "price": 68228,
+      "probability": 0.4195270785659802
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 55892,
+      "probability": 5.720823798627003
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 50596,
+      "probability": 7.627765064836003
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "case_name": "Designer_bags Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Gucci Dionysus",
+      "price": 272145,
+      "probability": 0.3546099290780142
+    },
+    {
+      "item_name": "Louis Vuitton Speedy",
+      "price": 245110,
+      "probability": 3.546099290780142
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 219336,
+      "probability": 3.2237266279819474
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 188531,
+      "probability": 3.546099290780142
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 178829,
+      "probability": 12.89490651192779
+    },
+    {
+      "item_name": "Kate Spade Outlet",
+      "price": 170319,
+      "probability": 1.6118633139909737
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 166531,
+      "probability": 12.572533849129593
+    },
+    {
+      "item_name": "Prada Re-Edition 2005",
+      "price": 157838,
+      "probability": 6.447453255963895
+    },
+    {
+      "item_name": "Hermès Himalaya Birkin",
+      "price": 146372,
+      "probability": 1.289490651192779
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 136238,
+      "probability": 3.546099290780142
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 129528,
+      "probability": 12.89490651192779
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 123486,
+      "probability": 11.605415860735011
+    },
+    {
+      "item_name": "Fendi Baguette",
+      "price": 121016,
+      "probability": 1.6118633139909737
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 76160,
+      "probability": 12.2501611863314
+    },
+    {
+      "item_name": "Chanel Classic Flap",
+      "price": 56404,
+      "probability": 0.3546099290780142
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 52460,
+      "probability": 5.157962604771116
+    },
+    {
+      "item_name": "Michael Kors Jet Set",
+      "price": 43701,
+      "probability": 1.289490651192779
+    },
+    {
+      "item_name": "Coach Crossbody",
+      "price": 6816,
+      "probability": 5.8027079303675055
+    }
+  ]
+}

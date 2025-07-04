@@ -1,0 +1,76 @@
+{
+  "case_name": "Vr_headsets Crate",
+  "case_price": 512,
+  "items": [
+    {
+      "item_name": "Meta Quest 2",
+      "price": 811,
+      "probability": 9.250693802035153
+    },
+    {
+      "item_name": "Oculus Rift S",
+      "price": 755,
+      "probability": 1.387604070305273
+    },
+    {
+      "item_name": "Valve Index",
+      "price": 667,
+      "probability": 7.400555041628122
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 615,
+      "probability": 17.113783533765034
+    },
+    {
+      "item_name": "HTC Vive Pro 2",
+      "price": 599,
+      "probability": 0.5087881591119334
+    },
+    {
+      "item_name": "Meta Quest 3 Pro",
+      "price": 517,
+      "probability": 1.387604070305273
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 492,
+      "probability": 12.950971322849213
+    },
+    {
+      "item_name": "PlayStation VR2",
+      "price": 360,
+      "probability": 0.9250693802035153
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 327,
+      "probability": 12.0259019426457
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 297,
+      "probability": 0.5087881591119334
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 278,
+      "probability": 7.863089731729881
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 253,
+      "probability": 5.550416281221092
+    },
+    {
+      "item_name": "Pimax 8KX",
+      "price": 204,
+      "probability": 9.250693802035153
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 160,
+      "probability": 13.87604070305273
+    }
+  ]
+}

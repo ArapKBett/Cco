@@ -1,0 +1,56 @@
+{
+  "case_name": "Wine Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Screaming Eagle Cabernet",
+      "price": 3508,
+      "probability": 1.7953321364452424
+    },
+    {
+      "item_name": "Penfolds Grange",
+      "price": 3197,
+      "probability": 0.05984440454817475
+    },
+    {
+      "item_name": "Screaming Eagle Cabernet",
+      "price": 2862,
+      "probability": 11.968880909634949
+    },
+    {
+      "item_name": "Dom Pérignon Vintage",
+      "price": 2468,
+      "probability": 2.9922202274087373
+    },
+    {
+      "item_name": "Screaming Eagle Cabernet",
+      "price": 2013,
+      "probability": 18.55176540993417
+    },
+    {
+      "item_name": "Screaming Eagle Cabernet",
+      "price": 1952,
+      "probability": 20.94554159186116
+    },
+    {
+      "item_name": "Screaming Eagle Cabernet",
+      "price": 1677,
+      "probability": 7.7797725912627165
+    },
+    {
+      "item_name": "Screaming Eagle Cabernet",
+      "price": 1660,
+      "probability": 14.961101137043686
+    },
+    {
+      "item_name": "Screaming Eagle Cabernet",
+      "price": 1387,
+      "probability": 11.968880909634949
+    },
+    {
+      "item_name": "Château Lafite Rothschild",
+      "price": 1166,
+      "probability": 8.976660682226212
+    }
+  ]
+}

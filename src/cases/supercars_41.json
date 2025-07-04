@@ -1,0 +1,76 @@
+{
+  "case_name": "Supercars Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 329558,
+      "probability": 2.1258503401360542
+    },
+    {
+      "item_name": "Audi R8 V10 Plus",
+      "price": 295038,
+      "probability": 5.9523809523809526
+    },
+    {
+      "item_name": "Mercedes-AMG GT",
+      "price": 282380,
+      "probability": 2.1258503401360542
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 224466,
+      "probability": 14.030612244897961
+    },
+    {
+      "item_name": "BMW M8 Competition",
+      "price": 213335,
+      "probability": 8.078231292517007
+    },
+    {
+      "item_name": "Porsche 911 Turbo S",
+      "price": 172303,
+      "probability": 0.8503401360544218
+    },
+    {
+      "item_name": "Lamborghini Huracan",
+      "price": 140641,
+      "probability": 5.1020408163265305
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 120912,
+      "probability": 14.880952380952381
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 109600,
+      "probability": 8.503401360544217
+    },
+    {
+      "item_name": "Ferrari 488 Pista",
+      "price": 104838,
+      "probability": 0.46768707482993205
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 62941,
+      "probability": 14.45578231292517
+    },
+    {
+      "item_name": "McLaren 570S",
+      "price": 36932,
+      "probability": 6.802721088435375
+    },
+    {
+      "item_name": "Chevrolet Corvette Z06",
+      "price": 27023,
+      "probability": 0.46768707482993205
+    },
+    {
+      "item_name": "Ford Mustang Shelby GT500",
+      "price": 22292,
+      "probability": 16.156462585034014
+    }
+  ]
+}

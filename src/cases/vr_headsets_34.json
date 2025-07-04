@@ -1,0 +1,101 @@
+{
+  "case_name": "Vr_headsets Crate",
+  "case_price": 521,
+  "items": [
+    {
+      "item_name": "PlayStation VR2",
+      "price": 938,
+      "probability": 1.3368983957219251
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 929,
+      "probability": 4.679144385026738
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 726,
+      "probability": 6.016042780748664
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 697,
+      "probability": 5.0133689839572195
+    },
+    {
+      "item_name": "Meta Quest 3 Pro",
+      "price": 662,
+      "probability": 0.6684491978609626
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 630,
+      "probability": 11.363636363636365
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 531,
+      "probability": 5.6818181818181825
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 491,
+      "probability": 4.679144385026738
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 409,
+      "probability": 11.363636363636365
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 400,
+      "probability": 10.695187165775401
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 364,
+      "probability": 6.016042780748664
+    },
+    {
+      "item_name": "Valve Index",
+      "price": 361,
+      "probability": 5.6818181818181825
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 254,
+      "probability": 10.36096256684492
+    },
+    {
+      "item_name": "Pimax 8KX",
+      "price": 223,
+      "probability": 0.36764705882352944
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 179,
+      "probability": 1.3368983957219251
+    },
+    {
+      "item_name": "Meta Quest 2",
+      "price": 164,
+      "probability": 0.36764705882352944
+    },
+    {
+      "item_name": "Samsung Odyssey+",
+      "price": 158,
+      "probability": 9.692513368983956
+    },
+    {
+      "item_name": "Oculus Rift S",
+      "price": 105,
+      "probability": 1.0026737967914439
+    },
+    {
+      "item_name": "HTC Vive Pro 2",
+      "price": 35,
+      "probability": 3.6764705882352944
+    }
+  ]
+}

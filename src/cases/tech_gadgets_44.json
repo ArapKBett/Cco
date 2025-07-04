@@ -1,0 +1,71 @@
+{
+  "case_name": "Tech_gadgets Crate",
+  "case_price": 1000,
+  "items": [
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 3481,
+      "probability": 0.5258126195028682
+    },
+    {
+      "item_name": "Sony PlayStation 5 Pro",
+      "price": 3198,
+      "probability": 0.5258126195028682
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 2749,
+      "probability": 12.4282982791587
+    },
+    {
+      "item_name": "Google Pixel 8 Pro",
+      "price": 1938,
+      "probability": 4.780114722753346
+    },
+    {
+      "item_name": "Apple Vision Pro",
+      "price": 1868,
+      "probability": 7.648183556405354
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 1826,
+      "probability": 9.082217973231357
+    },
+    {
+      "item_name": "Anker PowerCore 20K",
+      "price": 1540,
+      "probability": 9.082217973231357
+    },
+    {
+      "item_name": "Microsoft Surface Pro 9",
+      "price": 1142,
+      "probability": 5.736137667304016
+    },
+    {
+      "item_name": "JBL Boombox 3",
+      "price": 839,
+      "probability": 2.390057361376673
+    },
+    {
+      "item_name": "Apple iPad Pro",
+      "price": 804,
+      "probability": 2.390057361376673
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 130,
+      "probability": 19.120458891013385
+    },
+    {
+      "item_name": "Samsung Galaxy Z Fold 5",
+      "price": 85,
+      "probability": 8.126195028680689
+    },
+    {
+      "item_name": "Bose QuietComfort Earbuds",
+      "price": 70,
+      "probability": 18.164435946462714
+    }
+  ]
+}
