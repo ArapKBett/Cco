@@ -2,10 +2,10 @@ const fs = require('fs');
 const path = require('path');
 
 const NUM_CASES = 50;
-const ITEMS_PER_CASE = [3, 3]; // Fixed to 3 items per case
-const HOUSE_EDGE = 0.15; // 15% house edge (adjustable 10-25%)
-const OUTPUT_DIR = path.join(__dirname, 'src', 'cases'); // Changed to src/cases
-const IMAGE_DIR = path.join(__dirname, 'src', 'images'); // Changed to src/images
+const ITEMS_PER_CASE = [10, 20];
+const HOUSE_EDGE = 0.15;
+const OUTPUT_DIR = path.join(__dirname, 'src', 'cases'); // Updated to src/cases
+const IMAGE_DIR = path.join(__dirname, 'src', 'images'); // Updated to src/images
 
 const itemCategories = {
   watches: { items: ['Patek Philippe Nautilus', 'Rolex Submariner', 'Omega Seamaster', 'Tag Heuer Carrera', 'Tissot PRX Powermatic', 'Hamilton Khaki Field', 'Citizen Eco-Drive Promaster', 'Seiko 5 Sports', 'Fossil Gen 6', 'Timex Weekender', 'Casio G-Shock'], range: [5, 35000] },
@@ -27,7 +27,7 @@ function getRandomPrice(min, max) {
 }
 
 function generateCase(theme, category) {
-  const numItems = getRandomInt(ITEMS_PER_CASE[0], ITEMS_PER_CASE[1]); // Fixed to 3
+  const numItems = getRandomInt(ITEMS_PER_CASE[0], ITEMS_PER_CASE[1]);
   const items = [];
   const availableItems = [...category.items];
   let totalProbability = 0;
@@ -43,26 +43,22 @@ function generateCase(theme, category) {
     const price = getRandomPrice(category.range[0], category.range[1]);
     let probability;
 
-    if (i === 0) probability = getRandomInt(0.1, 1); // Rare
-    else if (i === 1) probability = getRandomInt(10, 30); // Uncommon
-    else probability = getRandomInt(69, 89.9); // Common (adjusted to sum to ~100%)
+    if (i < numItems * 0.1) probability = getRandomInt(0.1, 1);
+    else if (i < numItems * 0.3) probability = getRandomInt(2, 5);
+    else if (i < numItems * 0.7) probability = getRandomInt(10, 20);
+    else probability = getRandomInt(25, 40);
 
     items.push({ item_name: itemName, price, probability });
     totalProbability += probability;
   }
 
-  // Normalize probabilities to sum to 100%
   items.forEach(item => {
     item.probability = (item.probability / totalProbability) * 100;
   });
 
-  // Sort by price high to low
   items.sort((a, b) => b.price - a.price);
 
-  // Calculate Expected Value (EV)
   const ev = items.reduce((sum, item) => sum + (item.price * item.probability / 100), 0);
-
-  // Set case price with house edge
   const casePrice = Math.round(ev / (1 - HOUSE_EDGE));
   return {
     case_name: `${theme.charAt(0).toUpperCase() + theme.slice(1)} Crate`,
