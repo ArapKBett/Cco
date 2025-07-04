@@ -1,0 +1,16 @@
+{
+  "name": "crypto-casino-case-opening",
+  "version": "1.0.0",
+  "description": "A case opening game for a crypto casino",
+  "main": "generate_cases.js",
+  "scripts": {
+    "generate": "node generate_cases.js",
+    "start": "cd server && node server.js",
+    "start:dev": "node generate_cases.js && cd server && node server.js"
+  },
+  "author": "Arap",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.4.0"
+  }
+}
