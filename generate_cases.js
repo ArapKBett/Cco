@@ -4,8 +4,8 @@ const path = require('path');
 const NUM_CASES = 50;
 const ITEMS_PER_CASE = [3, 3]; // Fixed to 3 items per case
 const HOUSE_EDGE = 0.15; // 15% house edge (adjustable 10-25%)
-const OUTPUT_DIR = path.join(__dirname, 'crypto-casino-case-opening', 'cases');
-const IMAGE_DIR = path.join(__dirname, 'crypto-casino-case-opening', 'images');
+const OUTPUT_DIR = path.join(__dirname, 'src', 'cases'); // Changed to src/cases
+const IMAGE_DIR = path.join(__dirname, 'src', 'images'); // Changed to src/images
 
 const itemCategories = {
   watches: { items: ['Patek Philippe Nautilus', 'Rolex Submariner', 'Omega Seamaster', 'Tag Heuer Carrera', 'Tissot PRX Powermatic', 'Hamilton Khaki Field', 'Citizen Eco-Drive Promaster', 'Seiko 5 Sports', 'Fossil Gen 6', 'Timex Weekender', 'Casio G-Shock'], range: [5, 35000] },
